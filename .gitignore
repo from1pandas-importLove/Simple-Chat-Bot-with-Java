@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Chat Bot with Java/task/build/
+/Simple Chat Bot with Java/task/out/
+/Simple Chat Bot with Java/task/out/production/classes/
